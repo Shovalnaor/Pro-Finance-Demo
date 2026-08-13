@@ -1,0 +1,74 @@
+PRO-FINANCE — PROPRIETARY LICENSE
+Copyright (c) 2026 Shoval Naor. All Rights Reserved.
+
+------------------------------------------------------------------------------
+ENGLISH
+------------------------------------------------------------------------------
+
+This repository contains the source code of PRO-FINANCE (the "Software"),
+published publicly for the sole purpose of demonstrating the author's work
+(portfolio / code review by prospective employers and clients).
+
+PERMITTED
+  1. Viewing and reading the source code.
+  2. Running the published demo in a web browser for evaluation purposes.
+  3. Quoting short excerpts of the code for the purpose of review, discussion,
+     or technical evaluation of the author's skills, provided the author is
+     credited.
+
+NOT PERMITTED without prior written permission from the author
+  1. Copying, reproducing, or redistributing the Software, in whole or in
+     substantial part.
+  2. Modifying the Software or creating derivative works based on it.
+  3. Using the Software or any substantial part of it in any product, service,
+     or project, whether commercial or non-commercial.
+  4. Removing or altering copyright notices, author attribution, or this
+     license file.
+
+Third-party libraries loaded by this project (Chart.js, SheetJS, html2canvas,
+jsPDF, canvas-confetti, Font Awesome, Google Fonts) are the property of their
+respective owners and are governed by their own licenses.
+
+NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+NOT FINANCIAL ADVICE
+The Software is a personal budgeting tool. It does not constitute financial,
+investment, tax, or legal advice. Any decision made based on its output is the
+sole responsibility of the user.
+
+For licensing inquiries: shovaln1310@gmail.com
+
+------------------------------------------------------------------------------
+עברית (תרגום לנוחות הקורא — הנוסח האנגלי הוא המחייב)
+------------------------------------------------------------------------------
+
+מאגר זה מכיל את קוד המקור של PRO-FINANCE ("התוכנה"), שפורסם באופן ציבורי
+למטרה אחת בלבד: הצגת עבודתו של המחבר (תיק עבודות / בחינת קוד על ידי מעסיקים
+ולקוחות פוטנציאליים).
+
+מותר
+  1. צפייה וקריאה של קוד המקור.
+  2. הרצת גרסת ההדגמה בדפדפן לצורכי התרשמות והערכה.
+  3. ציטוט קטעי קוד קצרים לצורך סקירה, דיון או הערכה טכנית של כישורי המחבר,
+     תוך מתן קרדיט.
+
+אסור ללא אישור בכתב ומראש מהמחבר
+  1. העתקה, שכפול או הפצה מחדש של התוכנה, כולה או חלק ניכר ממנה.
+  2. שינוי התוכנה או יצירת עבודות נגזרות המבוססות עליה.
+  3. שימוש בתוכנה או בחלק ניכר ממנה בכל מוצר, שירות או פרויקט, מסחרי או שאינו
+     מסחרי.
+  4. הסרה או שינוי של הודעות זכויות יוצרים, ייחוס למחבר, או קובץ רישיון זה.
+
+ספריות צד שלישי הנטענות בפרויקט הן רכוש בעליהן וכפופות לרישיונות שלהן.
+
+התוכנה מסופקת "כמות שהיא", ללא אחריות מכל סוג. התוכנה איננה מהווה ייעוץ פיננסי,
+ייעוץ השקעות, ייעוץ מס או ייעוץ משפטי. האחריות על כל החלטה שתתקבל על בסיס
+פלטי התוכנה היא של המשתמש בלבד.
+
+לפניות בנושא רישוי: shovaln1310@gmail.com
